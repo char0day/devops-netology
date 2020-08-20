@@ -2,8 +2,6 @@
 devsys-2
 
 first edit
-secoond edit
-third edit
 
 a. Файл .gitignore в корневой директории пуст, поэтому никаких исключение не будет.
 
