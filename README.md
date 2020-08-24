@@ -22,3 +22,5 @@ b. Файл /Terraform/.gitignore  содержит шаблоны для иск
 6. Файлы override.tf, override.tf.json - игнорируются рекурсивно, файлы по шаблонам *_override.tf и *_override.tf.json игнорируются рекурсивно
 
 7. Файлы .terraformrc и terraformrc игнорируются рекурсивно
+
+add commmit with Pysharm ide
